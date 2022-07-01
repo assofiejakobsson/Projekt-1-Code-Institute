@@ -95,3 +95,7 @@ nav li {
 #cover-text h2, p {
     color: azure;
 }
+
+#cover-text i {
+    color: azure;
+}
