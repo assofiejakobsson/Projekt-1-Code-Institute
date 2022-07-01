@@ -10,6 +10,7 @@ body {
     font-family: Arima, sans-serif;
     font-weight: 300;
     color:#000;
+    background: url("../image/homework.jpg") no-repeat center center;
 }
 
 #container-header {
@@ -65,4 +66,32 @@ nav ul {
 
 nav li {
     display: inline-flex;
+}
+
+#home {
+    max-width: 3000px;
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#image-homework {
+    
+}
+
+#cover-text {
+    max-width: 385px;
+    width: 100%;
+    min-height: 140px;
+    background-color: green;
+    text-align: center;
+    padding: 25px;
+    
+    
+}
+
+#cover-text h2, p {
+    color: azure;
 }
