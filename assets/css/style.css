@@ -75,6 +75,7 @@ nav li {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 2px solid rgb(0, 128, 0);
 }
 
 #image-homework {
@@ -94,8 +95,48 @@ nav li {
 
 #cover-text h2, p {
     color: azure;
+    font-size: 160%;
 }
 
 #cover-text i {
     color: azure;
 }
+
+#cover-text i:hover {
+    color: black;
+}
+
+#about {
+    max-width: 3000px;
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid rgb(0, 128, 0);
+}
+
+#cover-text-about {
+    max-width: 600px;
+    width: 100%;
+    min-height: 400px;
+    background-color: green;
+    text-align: center;
+    padding: 25px;
+    
+    
+}
+
+#cover-text-about h2, p {
+    color: azure;
+    font-size: 160%;
+}
+
+#cover-text-about i {
+    color: azure;
+}
+
+#cover-text-about i:hover {
+    color: black;
+}
+
