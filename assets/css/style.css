@@ -118,6 +118,7 @@ nav li {
     max-width: 600px;
     width: 100%;
     min-height: 400px;
+    width: 100%;
     background-color: green;
     text-align: center;
     padding: 25px;
@@ -138,6 +139,59 @@ nav li {
     color: black;
 }
 
-#form-cover {
-    background-color: #8dc149;
+#contact {
+    max-width: 3000px;
+    width: 100%;
+    min-height: 800px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid rgb(0, 128, 0);
 }
+
+#cover-form {
+    max-width: 600px;
+    width: 100%;
+    min-height: 400px;
+   
+    background-color: green;
+    font-size: 160%;
+    padding: 25px;
+    margin: 35px;
+   
+    
+}
+
+#cover-form h2 {
+    text-align: center;
+    margin-bottom: px;
+}
+
+#form {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+#form input {
+   padding: 5px;
+}
+
+#form button {
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+}
+
+#form button:hover {
+    padding: 8px;
+    color: black;
+    background-color: rgb(77, 135, 77);
+}
+
