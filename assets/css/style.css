@@ -203,6 +203,17 @@ nav li {
     
 }
 
+#logo-footer {
+    float: left;
+    color: #fff;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+#logo-footer:hover {
+    color: black;
+}
+
 #social-media {
     float: right;
     margin-right: 25px;
@@ -233,5 +244,26 @@ nav li {
 
 #social-media li {
     display: inline-flex;
+}
+
+
+@media screen and (max-width: 500px) {
+    #container-footer, #container-header {
+        min-height: 135px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    #logo  {
+        padding-left: 20px;
+    }
+
+    #logo-footer  {
+        margin-left: 0px;
+    }
+
 }
 
