@@ -11,26 +11,30 @@ body {
     font-weight: 300;
     color:#000;
     background: url("../image/homework.jpg") no-repeat center center;
+    
+    
+   
+    
 }
 
 #container-header {
     max-width: 3000px;
     width: 100%;
     min-height: 80px;
-    background-color: aqua;
+    background-color: green;
 }
 
 
 
 #logo {
     float: left;
-    color: #000;
+    color: #fff;
     margin-left: 25px;
     margin-top: 15px;
 }
 
 #logo:hover {
-    color: green;
+    color: black;
 }
 
 #menu {
@@ -38,25 +42,21 @@ body {
     margin-right: 25px;
     margin-top: 15px;
     margin-left: 19px;
+    
 }
 
 #menu a {
     text-decoration-line: none;
-    color:#000;
+    color:#fff;
     font-size: 140%;
     padding: 6px;
     
 }
 
 #menu a:hover {
-    color:green;
+    color:#000;
 }
 
-#menu #logo {
-    line-height: 80px;
-
-    
-}
 
 nav ul {
     margin: 0;
@@ -78,11 +78,9 @@ nav li {
     border-top: 2px solid rgb(0, 128, 0);
 }
 
-#image-homework {
-    
-}
 
-#cover-text {
+
+#cover-text-home {
     max-width: 385px;
     width: 100%;
     min-height: 140px;
@@ -93,16 +91,16 @@ nav li {
     
 }
 
-#cover-text h2, p {
+#cover-text-home h2, p {
     color: azure;
     font-size: 160%;
 }
 
-#cover-text i {
+#cover-text-home i {
     color: azure;
 }
 
-#cover-text i:hover {
+#cover-text-home i:hover {
     color: black;
 }
 
@@ -140,3 +138,6 @@ nav li {
     color: black;
 }
 
+#form-cover {
+    background-color: #8dc149;
+}
