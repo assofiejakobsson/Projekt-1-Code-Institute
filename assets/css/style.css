@@ -71,7 +71,7 @@ nav li {
 #home {
     max-width: 3000px;
     width: 100%;
-    min-height: 500px;
+    min-height: 650px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -87,6 +87,7 @@ nav li {
     background-color: green;
     text-align: center;
     padding: 25px;
+    margin: 35px;
     
     
 }
@@ -107,7 +108,7 @@ nav li {
 #about {
     max-width: 3000px;
     width: 100%;
-    min-height: 600px;
+    min-height: 700px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,6 +123,7 @@ nav li {
     background-color: green;
     text-align: center;
     padding: 25px;
+    margin: 35px;
     
     
 }
@@ -142,7 +144,7 @@ nav li {
 #contact {
     max-width: 3000px;
     width: 100%;
-    min-height: 800px;
+    min-height: 750px;
     
     display: flex;
     justify-content: center;
