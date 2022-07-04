@@ -131,6 +131,8 @@ nav li {
 #cover-text-about h2, p {
     color: azure;
     font-size: 160%;
+    text-align: center;
+    
 }
 
 #point-list  {
@@ -142,6 +144,24 @@ nav li {
    padding-top: 35px;
 
 }
+
+#table {
+    font-size: 165%;
+    color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    border: 1px solid #fff;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h3 {
+    font-size: 165%;
+    color: #fff;
+    padding-top: 35px;
+  }
 
 #cover-text-about i {
     color: azure;
