@@ -133,6 +133,16 @@ nav li {
     font-size: 160%;
 }
 
+#point-list  {
+   color: #fff;
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   padding-left: 25px;
+   padding-top: 35px;
+
+}
+
 #cover-text-about i {
     color: azure;
 }
