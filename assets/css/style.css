@@ -326,8 +326,17 @@ h3 {
     }
 
 
-    #cover-text-home, #cover-text-about, #table, #cover-form  {
+    #cover-text-home p, #cover-text-about p, #table, #cover-form   {
         font-size: 100%;
+       
+    }
+
+    #cover-text-home h2, #cover-text-about h2, h3, #cover-form h2   {
+        font-size: 120%;
+    }
+
+    h2, h3 {
+        text-decoration-line: 1px #fff;
     }
 
     #table td {
