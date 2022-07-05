@@ -89,13 +89,14 @@ nav li {
 
 
 #cover-text-home {
-    max-width: 385px;
+    max-width: 600px;
     width: 100%;
     min-height: 140px;
     background-color: green;
     text-align: center;
     padding: 25px;
     margin: 25px;
+    
     
     
 }
