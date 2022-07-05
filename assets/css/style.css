@@ -33,7 +33,7 @@ body {
 #logo {
     float: left;
     color: #fff;
-    margin-left: 25px;
+    margin-left: 35px;
     margin-top: 15px;
 }
 
@@ -211,7 +211,7 @@ h3 {
     background-color: green;
     font-size: 160%;
     padding: 25px;
-    margin: 35px;
+    margin: 25px;
    
     
 }
@@ -232,6 +232,7 @@ h3 {
 }
 
 #select {
+    width: 190px;
     padding: 10px;
 }
 
@@ -325,7 +326,7 @@ h3 {
     }
 
 
-    #cover-text-home, #cover-text-about, #table, #cover-form, p, h2 {
+    #cover-text-home, #cover-text-about, #table, #cover-form  {
         font-size: 100%;
     }
 
