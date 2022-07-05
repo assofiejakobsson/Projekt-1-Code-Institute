@@ -13,6 +13,7 @@ body {
     background: url("../image/hw.jpg") no-repeat center center;
     background-attachment: fixed;
     
+    
 }
 
 
@@ -21,7 +22,7 @@ body {
     max-width: 3000px;
     width: 100%;
     min-height: 80px;
-    background-color: green;
+    background-color: aqua;
 }
 
 
@@ -68,6 +69,8 @@ nav li {
     display: inline-flex;
 }
 
+
+
 #home {
     max-width: 3000px;
     width: 100%;
@@ -95,6 +98,7 @@ nav li {
 #cover-text-home h2, p {
     color: azure;
     font-size: 160%;
+    
 }
 
 #cover-text-home i {
@@ -199,10 +203,7 @@ h3 {
     
 }
 
-#cover-form h2 {
-    text-align: center;
-    
-}
+
 
 #form {
     color: #fff;
@@ -292,7 +293,7 @@ h3 {
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 580px) {
     #container-footer, #container-header {
         min-height: 135px;
     
@@ -309,6 +310,11 @@ h3 {
     #logo-footer  {
         margin-left: 0px;
     }
+
+    #cover-text-home, #cover-text-about, #table, #cover-form, p, h2 {
+        font-size: 100%;
+    }
+
 
 }
 
