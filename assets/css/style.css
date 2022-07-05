@@ -79,11 +79,11 @@ nav li {
 #home {
     max-width: 3000px;
     width: 100%;
-    min-height: 650px;
+    min-height: 700px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 2px solid rgb(0, 128, 0);
+    
 }
 
 
@@ -124,7 +124,7 @@ nav li {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 2px solid rgb(0, 128, 0);
+    
 }
 
 #cover-text-about {
@@ -200,7 +200,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 2px solid rgb(0, 128, 0);
+    
 }
 
 #cover-form {
