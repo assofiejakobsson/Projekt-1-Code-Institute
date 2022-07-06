@@ -22,6 +22,7 @@ body {
 h2, h3 {
     font-family: Merriweather, sans-serif;
     font-size: 160%;
+    color: #fff;
 }
 
 
@@ -214,9 +215,9 @@ h3 {
     max-width: 600px;
     width: 100%;
     min-height: 400px;
-
-    background-color: green;
     
+    background-color: green;
+    text-align: center;
     padding: 25px;
     margin: 25px;
 
@@ -236,6 +237,7 @@ h3 {
     align-items: center;
     justify-content: center;
     margin-bottom: 25px;
+    font-size: 160%;
 }
 
 #form input {
@@ -342,7 +344,7 @@ h3 {
     #cover-text-home p,
     #cover-text-about p,
     #table,
-    #cover-form {
+    #form {
         font-size: 100%;
 
     }
