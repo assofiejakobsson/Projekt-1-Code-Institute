@@ -25,6 +25,14 @@ h2, h3 {
     color: #fff;
 }
 
+p {
+    color: azure;
+    font-size: 160%;
+    text-align: center;
+}
+
+
+
 
 /*header styling*/
 #container-header {
@@ -43,6 +51,7 @@ h2, h3 {
     margin-top: 15px;
 }
 
+
 #logo:hover {
     color: black;
 }
@@ -57,6 +66,7 @@ h2, h3 {
 
 }
 
+
 #menu a {
     text-decoration-line: none;
     color: #fff;
@@ -64,6 +74,7 @@ h2, h3 {
     padding: 6px;
 
 }
+
 
 #menu a:hover {
     color: #000;
@@ -76,9 +87,12 @@ nav ul {
     list-style: none;
 }
 
+
 nav li {
     display: inline-flex;
 }
+
+
 
 
 /*styling home section*/
@@ -93,7 +107,6 @@ nav li {
 }
 
 
-
 #cover-text-home {
     max-width: 600px;
     width: 100%;
@@ -103,25 +116,21 @@ nav li {
     padding: 25px;
     margin: 25px;
 
-
-
 }
 
-#cover-text-home h2,
-p {
-    color: azure;
-    font-size: 160%;
-
-}
 
 /*styling home icon*/
 #cover-text-home i {
     color: azure;
 }
 
+
 #cover-text-home i:hover {
     color: black;
 }
+
+
+
 
 /*styling about section*/
 #about {
@@ -131,8 +140,8 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
+
 
 #cover-text-about {
     max-width: 600px;
@@ -144,16 +153,8 @@ p {
     padding: 25px;
     margin: 25px;
 
-
 }
 
-#cover-text-about h2,
-p {
-    color: azure;
-    font-size: 160%;
-    text-align: center;
-
-}
 
 /*styling about list*/
 #point-list {
@@ -165,6 +166,7 @@ p {
     padding-top: 25px;
 
 }
+
 
 /*styling about table*/
 #table {
@@ -179,24 +181,29 @@ p {
     margin-top: 25px;
 }
 
+
 td {
     padding: 8px 16px 8px 16px;
 }
 
+
 h3 {
-    font-size: 160%;
-    color: #fff;
+    
     padding-top: 35px;
 }
+
 
 /*styling about icon*/
 #cover-text-about i {
     color: azure;
 }
 
+
 #cover-text-about i:hover {
     color: black;
 }
+
+
 
 
 /*styling contact section*/
@@ -211,6 +218,7 @@ h3 {
 
 }
 
+
 #cover-form {
     max-width: 600px;
     width: 100%;
@@ -221,12 +229,7 @@ h3 {
     padding: 25px;
     margin: 25px;
 
-
 }
-
-
-
-
 
 
 /*styling form*/
@@ -240,18 +243,22 @@ h3 {
     font-size: 160%;
 }
 
+
 #form input {
     padding: 10px;
 }
+
 
 #select {
     width: 190px;
     padding: 10px;
 }
 
+
 #message {
     padding: 10px;
 }
+
 
 #form button {
     margin-top: 20px;
@@ -262,11 +269,14 @@ h3 {
     font-size: 70%;
 }
 
+
 #form button:hover {
 
     color: black;
     background-color: rgb(77, 135, 77);
 }
+
+
 
 
 /*styling footer*/
@@ -278,6 +288,7 @@ h3 {
 
 }
 
+
 /*styling logo footer*/
 #logo-footer {
     float: left;
@@ -286,9 +297,11 @@ h3 {
     margin-top: 15px;
 }
 
+
 #logo-footer:hover {
     color: black;
 }
+
 
 /*styling social media fotter*/
 #social-media {
@@ -299,6 +312,7 @@ h3 {
 
 }
 
+
 /*styling social media icon*/
 #social-media a {
     text-decoration-line: none;
@@ -307,6 +321,7 @@ h3 {
     padding: 6px;
 
 }
+
 
 #social-media a:hover {
     color: #000;
@@ -319,15 +334,19 @@ h3 {
     list-style: none;
 }
 
+
 #social-media li {
     display: inline-flex;
 }
 
+
+
+
 /*responsiv designe to 580px*/
 @media screen and (max-width: 580px) {
 
-    #container-footer,
-    #container-header {
+    #container-header,
+    #container-footer {
         min-height: 135px;
 
         display: flex;
@@ -336,11 +355,12 @@ h3 {
 
     }
 
+    
     #logo {
         padding-left: 20px;
     }
 
-
+   
     #cover-text-home p,
     #cover-text-about p,
     #table,
@@ -349,10 +369,8 @@ h3 {
 
     }
 
-    #cover-text-home h2,
-    #cover-text-about h2,
-    h3,
-    #cover-form h2 {
+   
+    h2, h3 {
         font-size: 120%;
     }
 
@@ -362,6 +380,7 @@ h3 {
         flex-direction: column;
     }
 
+  
     #logo-footer {
         margin-left: 0px;
     }
