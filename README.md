@@ -56,6 +56,43 @@ Math help services are for high school students, who need extra help or want to 
 ![CI Screenshot navigation](assets/image/screenshot-footer.png)  
 
 
+## Testing
+
+- __Tested the website__
+
+  - Tested so the page works in different browsers: Chrome, Firefox, and Edge.
+  -  I have tested so the page looks good on all screen sizes using devtools in browsers and https://ui.dev/amiresponsive .
+  - I have checked so the form says if you fail to fill in something.
+
+
+  ## Bugs
+
+- __Solved bugs__
+
+  - My page did not respond to the css code when I used port 8000. I instead ran npx browser-sync start -s -w --ui-port 40001. And it works.
+
+
+   ## Validator Testing
+
+- __Html__
+
+  - The html code was approved in the W3C validator.
+
+- __Css__
+
+  - The css code was approved in the W3C validator (jigsaw).
+
+  - __Page quality__
+
+  - I tested the website through ligthouse in dev tools and here is the result.
+
+### Computer
+![CI Screenshot navigation](assets/image/screenshot-ligthouse-desk.png)  
+
+### Mobile
+![CI Screenshot navigation](assets/image/screenshot-ligthouse-mob.png)  
+
+
 
 
 
