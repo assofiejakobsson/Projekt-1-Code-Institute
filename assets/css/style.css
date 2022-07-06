@@ -393,5 +393,9 @@ h3 {
         margin-left: 0px;
     }
 
+    #point-list p {
+        text-align: start;
+    }
+
 
 }
