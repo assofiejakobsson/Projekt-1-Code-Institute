@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Arima:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Oswald&display=swap');
 
 /*sets all element */
 * {
@@ -10,13 +10,18 @@
 /*
 styling to be applied to the entire page*/
 body {
-    font-family: Arima, sans-serif;
-    font-weight: 300;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
     color: #000;
     background: url("../image/hw.jpg") no-repeat center center;
     background-attachment: fixed;
 
 
+}
+
+h2, h3 {
+    font-family: Merriweather, sans-serif;
+    font-size: 160%;
 }
 
 
@@ -178,7 +183,7 @@ td {
 }
 
 h3 {
-    font-size: 165%;
+    font-size: 160%;
     color: #fff;
     padding-top: 35px;
 }
@@ -211,12 +216,16 @@ h3 {
     min-height: 400px;
 
     background-color: green;
-    font-size: 160%;
+    
     padding: 25px;
     margin: 25px;
 
 
 }
+
+
+
+
 
 
 /*styling form*/
