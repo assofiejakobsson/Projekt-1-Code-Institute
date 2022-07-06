@@ -29,6 +29,7 @@ p {
     color: azure;
     font-size: 160%;
     text-align: center;
+    padding-top: 18px;
 }
 
 
@@ -116,6 +117,13 @@ nav li {
     padding: 25px;
     margin: 25px;
 
+}
+
+/*Image home */
+
+#image-home {
+    padding-top: 18px;
+    
 }
 
 
