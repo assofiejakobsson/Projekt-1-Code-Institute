@@ -56,6 +56,20 @@ Math help services are for high school students, who need extra help or want to 
 ![Screenshot navigation](assets/image/screenshot-footer.png)  
 
 
+
+## Error Page
+
+- __404.html__
+
+  - The 404 page appears if the web page does not work.
+  -  Short, recognizable, and easy to understand.
+  -  This can help the user find their way back and stay on the page.
+
+
+![Screenshot 404.html](assets/image/screenshot-404.html.png)  
+
+
+
 ## Testing
 
 - __Tested The Website__
