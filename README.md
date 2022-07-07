@@ -152,6 +152,17 @@ The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io
 
 
 
+   ### Media
+ 
+ - __The image of the home section is taken from [Pexels](https://www.pexels.com/sv-se/).__
+
+- __The backgrond image of the body is taken from [Unsplash](https://unsplash.com/).__
+
+
+
+   
+
+
   
 
 
