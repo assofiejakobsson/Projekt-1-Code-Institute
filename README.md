@@ -1,11 +1,11 @@
-# Math help
+# Math Help
 
 The Matte help website is a landing page that presents and informs about "Matte help" services.
 
 Math help services are for high school students, who need extra help or want to increase their grades and understanding of math.
 
 
-![CI The responsive appearance of the website](assets/image/responsiv%20.png)
+![The responsive appearance of the website](assets/image/responsiv%20.png)
 
 ## Features
 
@@ -16,16 +16,16 @@ Math help services are for high school students, who need extra help or want to 
   - The other navigation links are: Home, About and Contact. And they are located at the top right of the page. All links navigate to their section on the page.
   - The navigation is clear. This makes it easy for users to find what it is looking for.
 
-![CI Screenshot navigation](assets/image/Sk%C3%A4rmbild-navigation.png)  
+![Screenshot navigation](assets/image/Sk%C3%A4rmbild-navigation.png)  
 
-- __Home section__
+- __Home Section__
 
   - The home section welcomes visitors and gives a brief description of the company.
   - The home section also has an icon that navigates to "About us".
 
-![CI Screenshot navigation](assets/image/screenshot-home.png)  
+![Screenshot navigation](assets/image/screenshot-home.png)  
 
-- __About us section__
+- __About Us Section__
 
   - In the about section, the user can read more details about the company.
   - In the section, the user gets a more detailed information about what the company has to offer.
@@ -35,30 +35,30 @@ Math help services are for high school students, who need extra help or want to 
 
 
 
-![CI Screenshot navigation](assets/image/screenshot-about.png)  
+![Screenshot navigation](assets/image/screenshot-about.png)  
 
 
-- __Contact us section__
+- __Contact Us Section__
 
   - In the contact section there is a contact form.
   - In the form, fill in your first name, last name, e-mail and select the subject and write your message.
 
 
-![CI Screenshot navigation](assets/image/screenshot-contact.png)  
+![Screenshot navigation](assets/image/screenshot-contact.png)  
 
 
-- __footer__
+- __Footer__
 
   - The company name (logo) is located at the bottom left of the page and navigates to the home section.
   -  At the bottom left, there are icons that link to the company's social media.
 
 
-![CI Screenshot navigation](assets/image/screenshot-footer.png)  
+![Screenshot navigation](assets/image/screenshot-footer.png)  
 
 
 ## Testing
 
-- __Tested the website__
+- __Tested The Website__
 
   - Tested so the page works in different browsers: Chrome, Firefox, and Edge.
   -  I have tested so the page looks good on all screen sizes using devtools in browsers and https://ui.dev/amiresponsive .
@@ -67,7 +67,7 @@ Math help services are for high school students, who need extra help or want to 
 
   ## Bugs
 
-- __Solved bugs__
+- __Solved Bugs__
 
   - My page did not respond to the css code when I used port 8000. I instead ran npx browser-sync start -s -w --ui-port 40001. And it works.
 
@@ -82,15 +82,54 @@ Math help services are for high school students, who need extra help or want to 
 
   - The css code was approved in the W3C validator (jigsaw).
 
-  - __Page quality__
+- __Page Quality__
 
   - I tested the website through ligthouse in dev tools and here is the result.
 
 ### Computer
-![CI Screenshot navigation](assets/image/screenshot-ligthouse-desk.png)  
+![ Screenshot navigation](assets/image/screenshot-ligthouse-desk.png)  
 
 ### Mobile
-![CI Screenshot navigation](assets/image/screenshot-ligthouse-mob.png)  
+![ Screenshot navigation](assets/image/screenshot-ligthouse-mob.png)  
+
+
+  - __Unfixed Bugs__
+
+  - None.
+
+## Deployment
+
+### This website is posted on github pages.
+
+ - __The site was distributed to GitHub pages. The steps to distribute are as follows:__
+
+  - In the GitHub repository, select the Settings tab.
+  - Select pages from the menu on the left.
+  - Under the source section, select the main branch and root.
+  - Press save and a link to the live website will appear.
+  - Press save and a link to the live website will appear.
+
+The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io/Projekt-1-Code-Institute/)
+
+## Credits
+
+### Content
+ 
+ - __In my header and footer I have followed the Code Institute's walkthrough of the project "Love Running".__
+
+ - __I have used [Code-Institute-Solutions/readme-template](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md)  for my Read.md file.__
+
+
+  - __The select option menu in my contact form did I take from [W3Schools](https://www.w3schools.com/howto/howto_custom_select.asp) .__
+
+   - __The icons in my Home section, About Us section and in the footer did I take from [Font Awsome](https://fontawesome.com/) .__
+
+
+
+  
+
+
+
 
 
 
