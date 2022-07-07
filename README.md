@@ -127,8 +127,7 @@ Math help services are for high school students, who need extra help or want to 
 
 ### This website is posted on github pages.
 
- - __The site was deployd to GitHub pages. The steps to deployd are as follows:__
-
+  - The site was deployd to GitHub pages. The steps to deployd are as follows:
   - Log in to GitHub and click on repository you want to deploy.
   - Select settings and navigate to pages on the left.
   - Under the source section, select branch main and folder root.
