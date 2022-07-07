@@ -19,7 +19,8 @@ body {
 
 }
 
-h2, h3 {
+h2,
+h3 {
     font-family: Merriweather, sans-serif;
     font-size: 160%;
     color: #fff;
@@ -123,7 +124,7 @@ nav li {
 
 #image-home {
     padding-top: 18px;
-    
+
 }
 
 
@@ -196,7 +197,7 @@ td {
 
 
 h3 {
-    
+
     padding-top: 35px;
 }
 
@@ -231,7 +232,7 @@ h3 {
     max-width: 600px;
     width: 100%;
     min-height: 400px;
-    
+
     background-color: green;
     text-align: center;
     padding: 25px;
@@ -347,6 +348,42 @@ h3 {
     display: inline-flex;
 }
 
+/*styling 404.html page*/
+
+#error {
+    max-width: 3000px;
+    width: 100%;
+    min-height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#cover-error {
+    max-width: 600px;
+    width: 100%;
+    min-height: 140px;
+    background-color: green;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+#btn-error {
+    margin-top: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    font-size: 70%;
+}
+
+#btn-error:hover {
+    color: black;
+    background-color: rgb(77, 135, 77);
+}
+
 
 
 
@@ -363,12 +400,12 @@ h3 {
 
     }
 
-    
+
     #logo {
         padding-left: 20px;
     }
 
-   
+
     #cover-text-home p,
     #cover-text-about p,
     #table,
@@ -377,8 +414,9 @@ h3 {
 
     }
 
-   
-    h2, h3 {
+
+    h2,
+    h3 {
         font-size: 120%;
     }
 
@@ -388,7 +426,7 @@ h3 {
         flex-direction: column;
     }
 
-  
+
     #logo-footer {
         margin-left: 0px;
     }
