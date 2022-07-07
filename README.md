@@ -158,6 +158,8 @@ The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io
 
 - __The backgrond image of the body is taken from [Unsplash](https://unsplash.com/).__
 
+- __The favicon is made and taken from [favicon.io](https://favicon.io/favicon-converter/).__
+
 
 
    
