@@ -101,11 +101,11 @@ nav li {
 #home {
     max-width: 3000px;
     width: 100%;
-    min-height: 700px;
+    min-height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    margin-top: 25px;
 }
 
 
@@ -145,7 +145,7 @@ nav li {
 #about {
     max-width: 3000px;
     width: 100%;
-    min-height: 700px;
+    min-height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -219,12 +219,12 @@ h3 {
 #contact {
     max-width: 3000px;
     width: 100%;
-    min-height: 750px;
+    min-height: 500px;
 
     display: flex;
     justify-content: center;
     align-items: center;
-
+    margin-bottom: 25px;
 }
 
 
