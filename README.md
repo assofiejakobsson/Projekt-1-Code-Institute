@@ -71,6 +71,18 @@ Math help services are for high school students, who need extra help or want to 
 
   - My page did not respond to the css code when I used port 8000. I instead ran npx browser-sync start -s -w --ui-port 40001. And it works.
 
+  - __README.md__
+
+  - My links to different pages in my README.md
+ did not work.
+
+ - I discovered that it was because I used the same code that I used for my images.
+
+ ![Screenshot bugs](assets/image/screenshot.READ.md-bug.png)
+
+ - Remove ! solved the problem.
+
+
 
    ## Validator Testing
 
