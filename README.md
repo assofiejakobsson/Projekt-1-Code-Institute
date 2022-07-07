@@ -127,13 +127,12 @@ Math help services are for high school students, who need extra help or want to 
 
 ### This website is posted on github pages.
 
- - __The site was distributed to GitHub pages. The steps to distribute are as follows:__
+ - __The site was deployd to GitHub pages. The steps to deployd are as follows:__
 
-  - In the GitHub repository, select the Settings tab.
-  - Select pages from the menu on the left.
-  - Under the source section, select the main branch and root.
-  - Press save and a link to the live website will appear.
-  - Press save and a link to the live website will appear.
+  - Log in to GitHub and click on repository you want to deploy.
+  - Select settings and navigate to pages on the left.
+  - Under the source section, select branch main and folder root.
+  - Click save and the page deploy after auto-refresh.
 
 The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io/Projekt-1-Code-Institute/)
 
