@@ -415,6 +415,16 @@ a #btn-error {
         padding-left: 20px;
     }
 
+    #home {
+        margin: 0px
+    }
+
+    #cover-text-home, #cover-text-about, #cover-form {
+        padding: 15px;
+        margin: 15px;
+    
+    }
+
 
     #cover-text-home p,
     #cover-text-about p,
