@@ -376,6 +376,10 @@ h3 {
     padding-bottom: 18px;
 }
 
+#btn-error a {
+    text-decoration: none;
+}
+
 #btn-error {
     padding: 3px 10px 3px 10px;
     border-radius: 5px;
