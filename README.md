@@ -130,12 +130,12 @@ Math help services are for high school students, who need extra help or want to 
 
 ## Deployment
 
-### This website is posted on github pages.
+### The site was deployd to GitHub pages. The steps to deployd are as follows:
 
-  - The site was deployd to GitHub pages. The steps to deployd are as follows:
   - Log in to GitHub and click on the repository you want to deploy.
   - Select settings and click on pages to the left in the menu.
-  - Under the source section, select Branch: main and folder /(root).
+  - From the source section in the left dropdown-menue select branch main.
+  - In the right dropdown-menu for folder select /(rot).
   - Click save and the page deploy after auto-refresh.
 
 The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io/Projekt-1-Code-Institute/)
