@@ -44,7 +44,8 @@ Math help services are for high school students, who need extra help or want to 
   - In the contact section there is a contact form.
   - In the contact form, the user needs to fill in their first name, last name, and e-mail, select a subject and write their message.
   - All fields except select are requierd so users do not miss anything important.
-  - The contact form facilitates communication between the user and the company.
+  - The user gives the company the information the company needs. This allows the company to provide the user with a well-tailored service.
+  - The contact form facilitates communication between the user and the company. 
 
 
 ![Screenshot navigation](assets/image/screenshot-contact.png)  
