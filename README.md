@@ -2,7 +2,7 @@
 
 The Matte help website is a landing page that presents and informs about "Matte help" services.
 
-Math help services are for high school students, who need extra help or want to increase their grades and understanding of math.
+Math help services are for high school students, who need extra help or want to increase their grades and understanding of math. 
 
 
 ![The responsive appearance of the website](assets/image/responsiv%20.png)
@@ -14,24 +14,25 @@ Math help services are for high school students, who need extra help or want to 
 
   - The company name (logo) is located at the top left of the page and navigates to the home section.
   - The other navigation links are: Home, About and Contact. And they are located at the top right of the page. All links navigate to their section on the page.
-  - The navigation is clear. This makes it easy for users to find what it is looking for.
+  - This gives the user a quick overview of what the website contains. And facilitates the user's navigation on the page.
+  - The navigation is clear and all links have a hovering effect.
 
 ![Screenshot navigation](assets/image/Sk%C3%A4rmbild-navigation.png)  
 
 - __Home Section__
 
-  - The home section welcomes visitors and gives a brief description of the company.
-  - The home section also has an icon that navigates to "About us".
+  - The home section welcomes visitors and gives a brief description of the company and about their services.
+  - The home section also has an icon whit a hovering effect that navigates to "About Us".
 
 ![Screenshot navigation](assets/image/screenshot-home.png)  
 
 - __About Us Section__
 
-  - In the about section, the user can read more details about the company.
+  - In the section, the user can read more details about the company.
   - In the section, the user gets a more detailed information about what the company has to offer.
   - In the section, the user also receives a price and time list.
   - The section also explains how the user should do to take part in the company's services.
-  - The section also has an icon that navigates to the "Contact" section.
+  - The section also has an icon whit a hovering effect that navigates to the "Contact" section.
 
 
 
@@ -41,7 +42,9 @@ Math help services are for high school students, who need extra help or want to 
 - __Contact Us Section__
 
   - In the contact section there is a contact form.
-  - In the form, fill in your first name, last name, e-mail and select the subject and write your message.
+  - In the contact form, the user needs to fill in their first name, last name, and e-mail, select a subject and write their message.
+  - All fields except select are requierd so users do not miss anything important.
+  - The contact form facilitates communication between the user and the company.
 
 
 ![Screenshot navigation](assets/image/screenshot-contact.png)  
@@ -49,8 +52,10 @@ Math help services are for high school students, who need extra help or want to 
 
 - __Footer__
 
-  - The company name (logo) is located at the bottom left of the page and navigates to the home section.
-  -  At the bottom left, there are icons that link to the company's social media.
+  - The company name (logo) is located at the bottom left of the page and navigates to the home section. This facilitates navigation for the user. 
+  -  At the bottom left, there are icons that link to the company's social media. This allows the user to learn more and intrigue with the company
+    - All links open on a new page. It makes it easier if the user has filled in the contact form but not sent it.
+    -  All links have a hovering effect.
 
 
 ![Screenshot navigation](assets/image/screenshot-footer.png)  
@@ -94,7 +99,7 @@ Math help services are for high school students, who need extra help or want to 
 
  ![Screenshot bugs](assets/image/screenshot.READ.md-bug.png)
 
- - Remove ! solved the problem.
+ - I removed ! and it solved the problem.
 
 
 
@@ -128,9 +133,9 @@ Math help services are for high school students, who need extra help or want to 
 ### This website is posted on github pages.
 
   - The site was deployd to GitHub pages. The steps to deployd are as follows:
-  - Log in to GitHub and click on repository you want to deploy.
-  - Select settings and navigate to pages on the left.
-  - Under the source section, select branch main and folder root.
+  - Log in to GitHub and click on the repository you want to deploy.
+  - Select settings and click on pages to the left in the menu.
+  - Under the source section, select Branch: main and folder /(root).
   - Click save and the page deploy after auto-refresh.
 
 The live link can be found here - [MATH HELP](https://assofiejakobsson.github.io/Projekt-1-Code-Institute/)
