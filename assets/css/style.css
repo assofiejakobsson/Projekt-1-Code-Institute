@@ -42,6 +42,8 @@ p {
     width: 100%;
     min-height: 80px;
     background-color: green;
+    position: fixed;
+    top: 0;
 }
 
 
@@ -116,7 +118,7 @@ nav li {
     background-color: green;
     text-align: center;
     padding: 25px;
-    margin: 25px;
+    margin: 120px 25px 25px 25px;
 
 }
 
@@ -410,7 +412,6 @@ a #btn-error {
 
     }
 
-
     #logo {
         padding-left: 20px;
     }
@@ -434,6 +435,9 @@ a #btn-error {
 
     }
 
+    #cover-text-home {
+        margin-top: 170px;
+    }
 
     h2,
     h3 {
